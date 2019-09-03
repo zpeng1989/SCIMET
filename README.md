@@ -1,2 +1,2 @@
-# Spatial Computational Inference of MEtastatic Timing (SCIMET)
-SCIMET is a computational inference framework based on the WES data of paired primary tumor/metastasis, spatial tumor modeling and Approximate Bayesian Computation (ABC) technique to quantify the evolutionary dynamics of metastasis (Hu et al. 2019, upcoming). 1. SCIMET can infer the mode of tumor evolution (effectively neutral or strong selection) in paired primary tumor and metastasis. 2. SCIMET can infer two key parameters of metastasis evolution: a) mutation rate and b) primary carcinoma (malignant clone) size at the time of dissemination.
+#转移时间的空间计算推断(SCIMET)
+SCIMET是一个基于配对原发肿瘤/转移的WES数据、空间肿瘤建模和近似贝叶斯计算(ABC)技术来量化转移演化动力学的计算推理框架(Hu等，2019，即将推出)。1. SCIMET可以推断配对原发肿瘤和转移的肿瘤进化模式(有效的中性或强选择)。2. SCIMET可以推断转移进化的两个关键参数:a)突变率和b)传播时原发癌(恶性克隆)大小。
